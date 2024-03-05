@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#menuweb{
+    background-color:#9f4c4c;
+  color: rgb(0, 0, 0);
+  padding: 20px;
+  opacity: 0.8;
+  justify-content: end;
+}
+
+.Izquierda{
+    background:#9f4c4c;
+    height:120vh;
+    width:50%;
+   
+}
+
+.derecha{
+    background: url(/assets/img/Salud\ Mental.png);
+    background-size:cover;
+    background-position: center;
+    width: 50%;
+    height: 120vh;
+}
+
+#pantalla-dividida{
+display:flex;
+}
+
+.consejos{
+    color: aliceblue;
+}
+
+h1{
+    font-size: 60px;
+    width: 50%;
+    margin:auto ;
+    margin-bottom:40px ;
+
+}
+
+p{
+  font-size: 19px;
+  line-height: 30px;
+  width:50% ;
+  margin: auto;
+  }
+
+  a{
+     border: 3px solid #fff;
+     padding: 20px;
+     text-decoration: none;
+     color: azure;
+     border-radius: 30px;
+     font-weight: bold;
+     text-align: center;
+     display: inline-block;
+     margin: 30px;
+  }
+
+.link{
+    text-align: center;
+    color: antiquewhite;
+}
+  
+.title{
+    font-size: 50px;
+}
