@@ -10,7 +10,7 @@ body{
 
 
 #menuweb{
-    background-color:#9f4c4c;
+    background-color:#ffffff;
   color: rgb(0, 0, 0);
   padding: 20px;
   opacity: 0.8;
@@ -18,14 +18,14 @@ body{
 }
 
 .Izquierda{
-    background:#9f4c4c;
+    background:#870404e5;
     height:120vh;
     width:50%;
    
 }
 
 .derecha{
-    background: url(/assets/img/Salud\ Mental.png);
+    background: url(/assets/img/porta02.jpg);
     background-size:cover;
     background-position: center;
     width: 50%;
